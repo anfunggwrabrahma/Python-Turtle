@@ -1,7 +1,7 @@
 # 🌄 Mountains and Sun Scene — Python Turtle Animation
 
 This project is a scenic animated landscape built using Python's Turtle graphics module. It features a vibrant environment with simple animated elements such as a moving car and drifting clouds.
-<img src="" width="700"/>
+<img src="https://github.com/anfunggwrabrahma/Python-Turtle/blob/main/Screenshot%20(36).png" width="700"/>
 ---
 
 ## ✨ Features
